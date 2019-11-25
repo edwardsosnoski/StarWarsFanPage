@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsFanPage", "StarWarsFanPage\StarWarsFanPage.csproj", "{4081990D-875E-4989-A403-345F216C26DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4081990D-875E-4989-A403-345F216C26DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4081990D-875E-4989-A403-345F216C26DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4081990D-875E-4989-A403-345F216C26DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4081990D-875E-4989-A403-345F216C26DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

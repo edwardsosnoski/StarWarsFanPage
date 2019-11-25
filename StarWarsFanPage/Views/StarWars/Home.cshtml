@@ -1,0 +1,10 @@
+﻿@model StarWarsFanPage.Models.PlanetsListViewModel
+
+<h1>List of Planets</h1>
+
+<ul>
+    @foreach (var planet in Model.ListOfPlanets)
+    {
+        <li>@planet.Name</li>
+    }
+</ul>
